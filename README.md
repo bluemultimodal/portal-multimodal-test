@@ -39,7 +39,7 @@ Siga estes passos para ter seu próprio link de teste do aplicativo:
 
 1.  No seu repositório, vá para a aba **"Settings"**.
 2.  No menu lateral esquerdo, clique em **"Pages"**.
-3.  Na seção "Branch", selecione a branch `main` (ou `master`) e a pasta `/root`.
+3.  Na seção "Branch", selecione a branch `main` (ou `master`) e a pasta `/ (root)`.
 4.  Clique em **"Save"**.
 
 ### Passo 4: Acesse seu Aplicativo
